@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<Template name="BlackExtented" author="IshanCurse" width="3288" height="4488" proximity_version="0.6.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://hephaestus.dev/proximity/template.xsd">
+<Template name="PinlinesExtendedNeon" author="IshanCurse" width="3288" height="4488" proximity_version="0.6.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://hephaestus.dev/proximity/template.xsd">
     <Options>
         <Enumeration id="border" default="black">
             <EnumerationValue value="black" />
@@ -11,7 +11,7 @@
         <ToggleOption id="bottom_text_Outline" default="false" />
         <ToggleOption id="copyright" default="false" />
         <ToggleOption id="flavor_text" default="true" />
-        <ToggleOption id="flavor_bar" default="true" />
+        <ToggleOption id="flavor_bar" default="false" />
         <ToggleOption id="show_set_symbol" default="true" />
         <StringOption id="set_symbol" />
         <StringOption id="watermark" default="false"  />
